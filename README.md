@@ -34,6 +34,7 @@ An intelligent web-based Clinical Decision Support System (CDSS) for the early d
 - 450 samples
 - 174 handwriting features
 - Handwriting tasks including copying, graphics, and memory-based writing. :contentReference[oaicite:2]{index=2}
+- https://www.kaggle.com/datasets/taeefnajib/handwriting-data-to-detect-alzheimers-disease/data
 
 ## Methodology
 
