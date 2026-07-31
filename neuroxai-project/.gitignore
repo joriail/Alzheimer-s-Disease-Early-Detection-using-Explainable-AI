@@ -1,0 +1,59 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# ===== Flask / App =====
+instance/
+.webassets-cache
+
+# ===== Sensitive / Secret Files =====
+users_auth.json
+*.env
+.env
+.env.*
+secrets.py
+
+# ===== Database Files =====
+patients.db
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== Model Artifacts (Large Files) =====
+artifacts/model_artifacts.pkl
+artifacts/*.pkl
+
+# ===== Dataset (Sensitive / Large) =====
+DARWIN.csv
+*.csv
+
+# ===== OS Files =====
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Temp =====
+/tmp/
+temp/
